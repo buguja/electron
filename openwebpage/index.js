@@ -1,7 +1,6 @@
 const electron = require('electron');
-const app = electron.app;
 
-app.on('ready', function(){
+electron.app.on('ready', function(){
     var mainWindow = new electron.BrowserWindow({
         width: 500,
         height: 400,
