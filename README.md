@@ -6,8 +6,8 @@ $npm init<br>
 $npm install electron --save-dev --verbose<br>
 $npm start<br>
 
-$npm install mysql
-$npm install sqlite3
+$npm install mysql<br>
+$npm install sqlite3<br>
 
-$npm install electron-rebuild
-$./node_modules/.bin/electron-rebuild -w sqlite3 -p
+$npm install electron-rebuild<br>
+$./node_modules/.bin/electron-rebuild -w sqlite3 -p<br>
