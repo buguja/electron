@@ -1,0 +1,14 @@
+{
+  "name": "openwebpage",
+  "version": "1.0.0",
+  "description": "Open an internet web page(https://google.com)",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Javier Buron",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
