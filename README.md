@@ -14,7 +14,7 @@ $./node_modules/.bin/electron-rebuild -w sqlite3 -p<br>
 
 # https://electron.atom.io/
 
-<b>Clone the Quick Start repository</b>
+<b>Clone the Quick Start repository</b><br>
 $ git clone https://github.com/electron/electron-quick-start
 
 <b>Go into the repository</b><br>
