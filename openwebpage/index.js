@@ -6,6 +6,10 @@ electron.app.on('ready', function(){
         height: 400,
         backgroundColor: '#ececec'
     });
+    // mainWindow.maximize();
+    // Maximize window.
+    mainWindow.setFullScreen(true);
+    // Set window to full screen size.
     mainWindow.setMenu(null);
     mainWindow.loadURL('http://google.com');
 });
